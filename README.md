@@ -7,7 +7,7 @@ It is recommended to copy the folder IpConfiguration to one of the folders indic
 First, import the module.
 
 ````powershell
-Import-Module <String>
+Import-Module IpConfiguration
 ````
 
 You can either use the module name or the full path, if you did not copy the module to one of the paths in $env:PSModulePath.
